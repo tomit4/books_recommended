@@ -20,3 +20,8 @@
 - [The Linux Command Line, 2nd Edition: A Complete Introduction](https://www.amazon.com/Linux-Command-Line-2nd-Introduction/dp/1593279523/ref=sr_1_2?keywords=command+line&qid=1698107592&sr=8-2)
 - [Advanced Programming in the UNIX Environment, 3rd Edition](https://www.amazon.com/Advanced-Programming-UNIX-Environment-3rd/dp/0321637739/ref=sr_1_1?keywords=advanced+programming+in+the+unix+environment&qid=1698108027&sr=8-1)
 - [The Linux Programming Interface: A Linux and UNIX System Programming Handbook](https://www.amazon.com/Linux-Programming-Interface-System-Handbook/dp/1593272200/ref=sr_1_1?crid=OP89IIH349LC&keywords=the+linux+programming+interface&qid=1698107646&sprefix=the+linux+programm%2Caps%2C152&sr=8-1)
+
+**Other Media**
+
+- [Pantheon -TV Show](https://www.imdb.com/title/tt11680642/?ref_=fn_al_tt_1)
+- [The Blade Runner Series](https://www.imdb.com/find/?s=all&q=blade%20runner)
